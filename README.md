@@ -1,12 +1,12 @@
-# TryNStyle — AI-Powered Virtual Try-On Eyewear Store
+# TryNStyle: AI-Powered Virtual Try-On Eyewear Store
 
 An eyewear e-commerce platform with AI-powered virtual try-on, face shape detection, and skin tone analysis.
 
 ## Features
--  **Virtual Try-On** — overlay glasses on live webcam feed in real time
--  **Face Shape Detection** — MobileNetV2 model classifies face as Oval, Round, Square, Heart, or Oblong and recommends suitable frames
--  **Skin Tone Analysis** — detects warm/cool/neutral undertones and suggests matching frame colors
--  **Full E-Commerce** — product management, orders, payments, and admin dashboard
+-  **Virtual Try-On**: overlay glasses on live webcam feed in real time
+-  **Face Shape Detection**: MobileNetV2 model classifies face as Oval, Round, Square, Heart, or Oblong and recommends suitable frames
+-  **Skin Tone Analysis**: detects warm/cool/neutral undertones and suggests matching frame colors
+-  **Full E-Commerce**: product management, orders, payments, and admin dashboard
 
 ## Tech Stack
 | Layer | Technology |
